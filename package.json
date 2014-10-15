@@ -27,7 +27,8 @@
     "tsdb",
     "timeseries",
     "mock",
-    "server"
+    "server",
+    "testing"
   ],
   "dependencies": {
     "express": "^4.9.7"
