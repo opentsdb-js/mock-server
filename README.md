@@ -94,7 +94,7 @@ console.log( db.version );
 
 #### db.dropcaches
 
-Mock OpenTSDB response to a dropcaches request.
+Mock OpenTSDB response to a request to drop caches.
 
 ``` javascript
 console.log( db.dropcaches );
