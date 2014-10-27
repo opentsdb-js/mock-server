@@ -26,13 +26,13 @@ To use the module,
 var createApp = require( 'opentsdb-mock-server' );
 ```
 
-To create a new mock OpenTSDB,
+To create a new mock OpenTSDB application,
 
 ``` javascript
-var db = createServer();
+var db = createApp();
 ```
 
-The mock OpenTSDB has the following attributes and methods...
+The mock OpenTSDB application has the following attributes and methods...
 
 
 #### db.url
